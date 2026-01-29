@@ -23,9 +23,9 @@ This repository contains the advanced theoretical models and extensions for the 
 - Dynamic topology evolution
 
 ## Related Repositories
-- [Core-Theory](https://github.com/username/Core-Theory): Core theoretical framework
-- [Fundamental-Mathematics](https://github.com/username/Fundamental-Mathematics): Basic mathematical theories
-- [Physical-Applications](https://github.com/username/Physical-Applications): Physical applications
+- [Core-Theory](https://github.com/dpsnet/Core-Theory): Core theoretical framework
+- [Fundamental-Mathematics](https://github.com/dpsnet/Fundamental-Mathematics): Basic mathematical theories
+- [Physical-Applications](https://github.com/dpsnet/Physical-Applications): Physical applications
 
 ## License
 MIT License

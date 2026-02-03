@@ -32,12 +32,6 @@
 - [基础数学](https://github.com/dpsnet/Fundamental-Mathematics)：基础数学理论
 - [物理应用](https://github.com/dpsnet/Physical-Applications)：物理应用
 
-## 许可协议
-
-MIT 许可协议
-
----
-
 ## 版权声明
 
 本作品采用 **知识共享署名 4.0 国际 (CC BY 4.0) 许可证** 进行许可。

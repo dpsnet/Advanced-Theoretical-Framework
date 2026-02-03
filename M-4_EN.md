@@ -590,3 +590,30 @@ Wang, B. M-4: Dynamic Topology and Kaleidoscope Effect[M]. 2025.
 - **v6.4.0** (2025-12-25): Created M-4: Dynamic Topology and Kaleidoscope Effect document, based on the unified field theoretical system of fractal Clifford algebras, systematically elaborated the composite topology theory of longitudinal multiple torsion topology + transverse kaleidoscope dynamic topology
 
 ---
+
+---
+
+## 版权声明
+
+本作品采用 **知识共享署名 4.0 国际 (CC BY 4.0) 许可证** 进行许可。
+
+### 您可以自由地：
+
+- **共享** — 在任何媒介或格式中复制、分发本作品
+- **改编** — 重混、转换本作品，以及基于本作品进行创作
+- 用于任何目的，包括商业用途
+
+### 惟须遵守下列条件：
+
+- **署名** — 您必须给出适当的署名，提供指向本许可证的链接，并指明是否进行了修改。您可以以任何合理的方式这样做，但不能以任何方式暗示许可方认可您或您的使用。
+
+### 相关链接：
+
+- 完整许可证文本：https://creativecommons.org/licenses/by/4.0/legalcode
+- 简体中文摘要：https://creativecommons.org/licenses/by/4.0/deed.zh
+
+---
+
+**作者**: 王斌  
+**邮箱**: wang.bin@foxmail.com  
+**项目主页**: [GitHub Repositories]

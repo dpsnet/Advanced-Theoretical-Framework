@@ -28,4 +28,10 @@ This repository contains the advanced theoretical models and extensions for the 
 - [Physical-Applications](https://github.com/dpsnet/Physical-Applications): Physical applications
 
 ## License
-MIT License
+CC BY 4.0 License
+
+---
+
+## 📚 相关文档
+
+- [项目文档中心](../Theory-Documentation) - 理论规划、概念澄清、术语标准

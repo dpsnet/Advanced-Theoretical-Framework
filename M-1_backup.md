@@ -2676,4 +2676,4 @@ $$E \frac{d d_s(E)}{dE} = \beta^{(0)}(d_s(E)) + \beta^{(2)}(d_s(E)) E^{-2} + \be
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [GitHub Repositories]
+**项目主页**: [Advanced-Theoretical-Framework](https://github.com/dpsnet/Advanced-Theoretical-Framework)

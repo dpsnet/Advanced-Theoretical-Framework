@@ -670,4 +670,4 @@ $$T^a = \frac{1}{2} \sum_{i=1}^n \sigma^a_i \otimes I_{(5-n)}$$
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [GitHub Repositories]
+**项目主页**: [Advanced-Theoretical-Framework](https://github.com/dpsnet/Advanced-Theoretical-Framework)

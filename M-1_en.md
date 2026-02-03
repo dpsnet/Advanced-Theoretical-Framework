@@ -2676,4 +2676,4 @@ Wang Bin. General outline: fixed 4-dimensional topology-dynamic spectral dimensi
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [GitHub Repositories]
+**项目主页**: [Advanced-Theoretical-Framework](https://github.com/dpsnet/Advanced-Theoretical-Framework)
